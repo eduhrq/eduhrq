@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eduhrq
+- ##👋 Hi, I’m @eduhrq##
 - 👀 I’m e in ..front-end
 - 🌱 I’m currently learning  analise e desenvolvimento de sistemas 
 - 💞️ I’m looking to collaborate on ...
