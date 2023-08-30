@@ -7,7 +7,7 @@
 
 <p>
 
-Estudando Analise e Desenvolvimento de Sistemas na Estacio de Sá **EduHrq**<br/>
+Graduando em Analise e Desenvolvimento de Sistemas na Universidade Estacio de Sá **EduHrq**<br/>
 
 Eu sou desenvolvedor **FrontEnd**.
 
